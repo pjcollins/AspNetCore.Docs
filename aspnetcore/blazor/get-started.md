@@ -90,7 +90,7 @@ Blazor Server is supported in Visual Studio for Mac. Blazor WebAssembly isn't su
 
 1. Select **File** > **New Solution** or create a **New Project**.
 
-1. In the sidebar, select **.NET Core** > **App**.
+1. In the sidebar, select **Web and Console** > **App**.
 
 1. Select the **Blazor Server App** template. Select **Create**.
 
